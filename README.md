@@ -6,7 +6,7 @@
 
 ## Fonctionnalités développées
 
-# Tab Bar : Recherche, Catégories et Ingrédients
+### Tab Bar : Recherche, Catégories et Ingrédients
 
 • Premier onglet : Recherche : permets de rechercher sur une recette par son nom, la recherche est synchronisé avec la saisie (pas besoin de cliquer sur entrer pour envoyer la requete du recherche), en cliquant sur une recette, cela genere les detals de cette recette (Categorie, Instructions, Ingredients...)
 
