@@ -67,7 +67,7 @@
                     android:layout_marginStart="20dp"
                     android:gravity="center"
                     android:textSize="26sp"
-                    android:text="Category :" />
+                    android:text="Category" />
             </androidx.cardview.widget.CardView>
             <TextView
                 android:id="@+id/textView22"
@@ -98,7 +98,7 @@
                     android:layout_marginStart="20dp"
                     android:gravity="center"
                     android:textSize="26sp"
-                    android:text="Served in :" />
+                    android:text="Served in" />
             </androidx.cardview.widget.CardView>
             <TextView
                 android:id="@+id/textView33"
