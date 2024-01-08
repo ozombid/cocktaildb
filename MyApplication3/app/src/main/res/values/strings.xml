@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application 3</string>
+
+    <string name="title_search">Recherche</string>
+    <string name="title_categories">Catégories</string>
+    <string name="title_ingredients">Ingrédients</string>
+
+</resources>
